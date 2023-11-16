@@ -6,8 +6,9 @@ margin: 0;
 }
 body{
   background-image: url(https://images8.alphacoders.com/133/1331544.png);
-  background-size: cover;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
   color: #fff;
+  min-height: 100vh;
 }
