@@ -1,10 +1,13 @@
 {
 margin: 0;
   padding: 0;
-  front-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
 body{
-  background: #000000
+  background-image: url(https://images8.alphacoders.com/133/1331544.png);
+  backgroundsize: cover;
+  background-repeat: no repeat;
+  background-position: center;
   color: #fff;
 }
