@@ -12,3 +12,10 @@ body{
   color: #fff;
   min-height: 100vh;
 }
+#header{
+  width: 100%;
+  height: 100vh;
+  background-image: url(https://drive.google.com/file/d/1B6Q4JpiFH4Cd_v6kxRn7coswnW3-3MUb/view?usp=drive_link);
+  background-repeat: no-repeat;
+  background-position: center;
+}
